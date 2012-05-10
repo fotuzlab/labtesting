@@ -1,4 +1,4 @@
 labtesting
 ==========
 
-This is an experimental repo.
+This is an experimental repoitory by fotuzlab
