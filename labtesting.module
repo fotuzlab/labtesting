@@ -11,3 +11,5 @@
 function test($a, $b, $c) {
   // issue 2
 }
+
+// This is third issue test.
