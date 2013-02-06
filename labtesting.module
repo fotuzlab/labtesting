@@ -9,5 +9,5 @@
  * The code below should have code standard errors.
  */
 function test($a, $b, $c) {
-
+ // issue 1
 }
